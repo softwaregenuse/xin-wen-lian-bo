@@ -3,6 +3,9 @@ name: Update today xin wen lian bo
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: "30 15 * * *"
+
 jobs:
   update:
     name: Update today xin wen lian bo
