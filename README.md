@@ -133,6 +133,7 @@ https://raw.githubusercontent.com/你的用户名/你的仓库名/master/feed.xm
 
 <!-- INSERT -->
 - [20260903](./news/20260903.md)
+- [20260903](./news/20260903.md)
 - [20260902](./news/20260902.md)
 - [20260901](./news/20260901.md)
 - [20260831](./news/20260831.md)
